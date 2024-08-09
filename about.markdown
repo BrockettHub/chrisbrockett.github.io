@@ -25,7 +25,7 @@ I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging
 <li>Teradata</li>
 <li>SQL</li>
 <li>Oracle</li>
-<li>SharePoint<li>
+<li>SharePoint</li>
 <li>Power BI</li>
 <li>PowerShell</li>
 </ul>
