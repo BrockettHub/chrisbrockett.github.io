@@ -20,6 +20,8 @@ I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging
 <details>
   <summary><b>Technical Skills</b></summary>
 
+ <br/>
+
   - Microsoft Office Suite
   - Hardware & Software Troubleshooting/Support
   - Teradata
