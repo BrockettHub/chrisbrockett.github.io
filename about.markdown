@@ -18,7 +18,7 @@ I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging
 - **People Management:** Leading teams and managing large groups effectively.
 
 <details>
-  <summary><h2>Technical Skills</h2></summary>
+  <summary><b>Technical Skills</b></summary>
 <ul>
 <li>Microsoft Office Suite</li>
 <li>Hardware & Software Troubleshooting/Support</li>
