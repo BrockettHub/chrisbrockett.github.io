@@ -18,23 +18,15 @@ I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging
 - **People Management:** Leading teams and managing large groups effectively.
 
 <details>
-  <summary>Technical Skills</summary>
-
-- Microsoft Office Suite
-
-- Hardware & Software Troubleshooting/Support
-
-- Teradata
-
-- SQL
-
-- Oracle
-
-- SharePoint
-
-- Power BI
-
-- PowerShell
+  <summary>## Technical Skills</summary>
+    - Microsoft Office Suite
+    - Hardware & Software Troubleshooting/Support
+    - Teradata
+    - SQL
+    - Oracle
+    - SharePoint
+    - Power BI
+    - PowerShell
 </details>
 
 ## Professional Experience
