@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-# Hello! I'm Chris Brockett
-
-Hi there! I'm Christopher Brockett 👋
+# Hi there! I'm Christopher Brockett 👋
 
 I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging data to drive business improvements and efficiencies. With over two decades of experience at Best Buy, I have honed my skills in data analysis, solution development, and stakeholder collaboration. My journey from an Assistant Manager to a Data Scientist Associate reflects my dedication to continuous learning and professional growth.
 
 ## Core Competencies
 
-- Data Analysis: Transforming raw data into actionable insights.
+- ** Data Analysis: ** Transforming raw data into actionable insights.
 - Solution Development: Crafting efficient and reusable data solutions.
 - Stakeholder Collaboration: Working closely with business stakeholders to achieve common goals.
 - Training: Developing and delivering training programs to enhance team capabilities.
