@@ -10,7 +10,7 @@ I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging
 
 ## Core Competencies
 
-- ** Data Analysis: ** Transforming raw data into actionable insights.
+- **Data Analysis:** Transforming raw data into actionable insights.
 - Solution Development: Crafting efficient and reusable data solutions.
 - Stakeholder Collaboration: Working closely with business stakeholders to achieve common goals.
 - Training: Developing and delivering training programs to enhance team capabilities.
