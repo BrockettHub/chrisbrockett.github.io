@@ -18,7 +18,7 @@ I'm a seasoned Data Analyst based in Lakeland, FL, with a passion for leveraging
 - **People Management:** Leading teams and managing large groups effectively.
 
 <details>
-  <summary><b>Technical Skills</b></summary>
+  <summary><h2>Technical Skills</h2></summary>
 <ul>
 <li>Microsoft Office Suite</li>
 <li>Hardware & Software Troubleshooting/Support</li>
@@ -43,11 +43,11 @@ October 1999 – March 2024
 **Assistant Manager:** Managed a team of 80-100 employees, saving the company over $500,000 through labor optimization.
 
 ## Education
-Bachelor’s Degree in Marketing
-Northern Illinois University
+
+Northern Illinois University - Bachelor’s Degree in Marketing
 
 ## Awards & Honors
-Eagle Scout
-Boy Scouts of America
+
+Boy Scouts of America - Eagle Scout
 
 I'm excited to connect with fellow data enthusiasts, collaborate on projects, and continue learning in the ever-evolving field of data analytics. Feel free to explore my repositories, and don't hesitate to reach out!
